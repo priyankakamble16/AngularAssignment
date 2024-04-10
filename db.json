@@ -1,0 +1,37 @@
+{
+    "users":[
+        {
+            "id":1,
+            "firstName":"Nisha",
+            "lastName":"Shah",
+            "address":"Pune",
+            "email":"nisha@gmail.com",
+            "phone":"9812345674"
+        },
+        {
+            "id":2,
+            "firstName":"Pooja",
+            "lastName":"Mehta",
+            "address":"Mumbai",
+            "email":"pooja@gmail.com",
+            "phone":"8734567808"
+        },
+        {
+            "id":3,
+            "firstName":"Ashwini",
+            "lastName":"Date",
+            "address":"Nashik",
+            "email":"ashwini@gmail.com",
+            "phone":"9128649234"
+        },
+        {
+            "id":4,
+            "firstName":"Pratiksha",
+            "lastName":"Sharma",
+            "address":"Solapur",
+            "email":"pratiksha@gmail.com",
+            "phone":"9120935478"
+        }
+
+    ]
+}
